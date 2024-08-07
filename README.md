@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `SQL : Les fonctions de fenêtrage`. Le 
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Rudi Bruchez vous propose de suivre cette formation sur les fonctions de fenêtrage SQL. Après avoir suivi les prérequis et préparé l'environnement, vous apprendrez les fonctions de fenêtrage, leur syntaxe de base, l'utilisation de la clause WINDOW, et la gestion des NULL. Vous aborderez également les fonctions de ranking et de distribution, avec des exercices pratiques pour trouver des positions dans un ensemble et dédupliquer des données. Vous analyserez des agrégats, utiliserez des fonctions de fenêtrage sur des requêtes agrégées, et résoudrez des problèmes courants. Enfin, vous apprendrez à définir et utiliser le cadrage dans les fenêtres SQL.		
 
 ## Instructions
 
