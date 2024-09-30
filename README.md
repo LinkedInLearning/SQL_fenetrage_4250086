@@ -29,8 +29,8 @@ Ce dossier Repository contient des dossiers pour chacun des chapitres de la form
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/sql-les-fonctions-de-fenetrage
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHRQzo82bWjrw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727365732696?e=2147483647&v=beta&t=DMN8Z4XF011I2pqdH6PPTJGlpd41_4EzxnnnO1ZUphU
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/rudi-bruchez
 
 [1]: # (End of FR-Instruction ###############################################################################################)
